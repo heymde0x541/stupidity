@@ -1,0 +1,2 @@
+# groot
+alias get-root
