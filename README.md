@@ -1,5 +1,5 @@
 ## groot
 
-a script to make alias
+a stwepid script to make alias
 
 groot : get root
