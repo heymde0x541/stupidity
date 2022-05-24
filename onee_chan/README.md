@@ -7,6 +7,8 @@ prerequisites:
 - you'll need mpg123 installed
 
 commands-
+```
 git clone https://github.com/heymde0x541/stupidity.git
 chmod +x stupidity/onee_chan/onee_chan
 ./stupidity/onee_chan/onee_chan
+```
