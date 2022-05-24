@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "alias groot='sudo'" >> /home/$USER/.bashrc
-echo "ta-da, done."
+printf "alias groot=\"sudo\"" >> /home/$USER/.bashrc
+printf "ta-da, done."
