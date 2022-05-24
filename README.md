@@ -1,3 +1,3 @@
-## how to spend free time
+### how to spend free time
 
 inanity insanity!
