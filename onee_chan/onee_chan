@@ -2,4 +2,4 @@
 
 chmod +x onee_chan
 printf "alias whoami=\"whoami; mpg123 -q $HOME/stupidity/onee_chan/onee_chan.mp3 \"" >> $HOME/.bashrc
-source .bashrc
+source $HOME/.bashrc
