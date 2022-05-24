@@ -1,4 +1,0 @@
-#!/bin/sh
-
-echo "alias groot='sudo'" >> /home/$USER/.bashrc
-echo "ta-da, done."
