@@ -4,4 +4,4 @@ a stupid script which will make your terminal say "onee chan" whenever you type 
 
 prerequisites:
 
-you'll need mpg123 installed
+- you'll need mpg123 installed
